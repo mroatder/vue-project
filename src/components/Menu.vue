@@ -7,12 +7,13 @@
         </a>
 
         <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-          <li><a href="mroatder" class="nav-link px-2 text-white">mroatder</a></li>
           <li><a href="/" class="nav-link px-2 text-white">Home</a></li>
           <li><a href="/Product" class="nav-link px-2 text-white">Product</a></li>
           <li><a href="/Contact" class="nav-link px-2 text-white">Contact</a></li>
           <li><a href="/About" class="nav-link px-2 text-white">About</a></li>
           <li><a href="/Register" class="nav-link px-2 text-white">Register</a></li>
+          <li><a href="/AddProduct" class="nav-link px-2 text-white">AddProduct</a></li>
+          <li><a href="/Gradecal" class="nav-link px-2 text-white">Grade</a></li>
         </ul>
 
         <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
