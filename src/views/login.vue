@@ -26,9 +26,19 @@
 </template>
 <script>
 export default {
-    
-}
+  data() {
+    return {
+      isLoggedIn: false, // ตัวแปรสำหรับตรวจสอบสถานะการเข้าสู่ระบบ
+    };
+  },
+  methods: {
+    toggleLogin() {
+      this.isLoggedIn = !this.isLoggedIn; // สลับสถานะการเข้าสู่ระบบ
+    },
+  },
+};
 </script>
+
 <style>
         .form-signin{
             display: flex;
